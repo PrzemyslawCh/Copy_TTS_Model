@@ -1,0 +1,200 @@
+wavs/1.wav|In 100 meters, turn left onto Maple Street.
+wavs/2.wav|After the traffic light, make a right onto Oak Avenue.
+wavs/3.wav|Keep straight for about 2 kilometers before the roundabout.
+wavs/4.wav|Take the third exit on the roundabout to continue on Pine Road.
+wavs/5.wav|Merge onto the highway using the on-ramp to your right.
+wavs/6.wav|At the fork in the road, keep left to stay on Elm Street.
+wavs/7.wav|Cross the bridge, then make a sharp right onto Willow Lane.
+wavs/8.wav|After passing the school, turn left onto Cherry Boulevard.
+wavs/9.wav|When you reach the T-junction, turn right onto Cedar Drive.
+wavs/10.wav|At the upcoming intersection, make a U-turn to go back.
+wavs/11.wav|In 500 meters, take the second exit onto Birch Street.
+wavs/12.wav|Follow the curve to the right to stay on Walnut Way.
+wavs/13.wav|Pass the gas station, then turn left onto Chestnut Circle.
+wavs/14.wav|Enter the tunnel and continue straight for 1 kilometer.
+wavs/15.wav|After the underpass, make a slight left onto Poplar Place.
+wavs/16.wav|Turn right at the next stop sign onto Spruce Street.
+wavs/17.wav|Use the pedestrian crosswalk to safely cross the road.
+wavs/18.wav|In 250 meters, turn left at the four-way stop onto Sycamore Road.
+wavs/19.wav|Keep right at the fork to stay on the main road.
+wavs/20.wav|Take the first exit at the roundabout to turn onto Hawthorn Avenue.
+wavs/21.wav|In 800 meters, make a right onto Redwood Street.
+wavs/22.wav|Pass the shopping center, then turn left onto Ash Avenue.
+wavs/23.wav|Follow the one-way street until you reach the dead end.
+wavs/24.wav|Turn right onto Alder Drive after the speed bump.
+wavs/25.wav|When you see the park, make a left onto Beech Street.
+wavs/26.wav|Proceed straight through the intersection at the traffic light.
+wavs/27.wav|Cross the railroad tracks, then turn right onto Fir Road.
+wavs/28.wav|Keep left at the Y-junction to stay on Magnolia Way.
+wavs/29.wav|After the roundabout, take the second exit onto Holly Drive.
+wavs/30.wav|In 400 meters, make a left onto Dogwood Boulevard.
+wavs/31.wav|After the church, turn right onto Hemlock Street.
+wavs/32.wav|At the upcoming curve, bear left to stay on Juniper Avenue.
+wavs/33.wav|Pass the hospital, then make a left onto Laurel Road.
+wavs/34.wav|Turn right onto Cypress Circle just after the bus stop.
+wavs/35.wav|In 300 meters, make a slight right onto Sequoia Drive.
+wavs/36.wav|Continue straight for 2.5 kilometers before turning left.
+wavs/37.wav|Take the second exit on the roundabout onto Linden Street.
+wavs/38.wav|Merge onto the highway using the left-hand on-ramp.
+wavs/39.wav|Keep right at the fork to exit the freeway.
+wavs/40.wav|Turn left at the T-junction onto Locust Avenue.
+wavs/41.wav|In 600 meters, make a right onto Myrtle Street.
+wavs/42.wav|Pass the Kraków Old Town Square, then turn left onto Świętego Idziego Street.
+wavs/43.wav|After the roundabout, take the second exit onto Aleje Jerozolimskie in Warsaw.
+wavs/44.wav|In 2 kilometers, turn right onto Długa Street in Gdańsk, near the historic city center.
+wavs/45.wav|Merge onto the A4 highway towards Wrocław and continue for 15 kilometers.
+wavs/46.wav|In 500 meters, turn left onto Main Street.
+wavs/47.wav|Take the second exit at the roundabout and continue on Route 1.
+wavs/48.wav|Stay on this road for 10 kilometers, then take the exit for the airport.
+wavs/49.wav|Follow the signs for the city center and take the third right at the traffic lights.
+wavs/50.wav|Turn left at the next intersection and continue for 2 kilometers on this road.
+wavs/51.wav|Take the ramp onto the highway and continue for 5 kilometers.
+wavs/52.wav|Exit the highway and turn right at the traffic lights.
+wavs/53.wav|Continue straight for 1 kilometer and then turn left onto Smith Street.
+wavs/54.wav|Turn right at the next intersection and continue for 500 meters on this road.
+wavs/55.wav|In 300 meters, turn left onto Kościuszki Street in Krakow.
+wavs/56.wav|Take the third exit at the roundabout and continue on Aleja Jana Pawła II in Poznan.
+wavs/57.wav|Stay on this road for 20 kilometers, then take the exit for Gdansk.
+wavs/58.wav|Follow the signs for the Old Town and turn right at the next intersection onto Mariacka Street in Gdansk.
+wavs/59.wav|Turn left onto Zwierzyniecka Street and continue for 2 kilometers in Warsaw.
+wavs/60.wav|Take the ramp onto the S8 highway towards Bialystok and continue for 15 kilometers.
+wavs/61.wav|Exit the highway and turn right onto Lubelska Street in Lublin.
+wavs/62.wav|Continue straight for 1 kilometer and then turn left onto Wita Stwosza Street in Wroclaw.
+wavs/63.wav|Turn right at the next intersection onto Nowy Świat Street and continue for 500 meters in Warsaw.
+wavs/64.wav|Take the second exit at the roundabout and continue on 1 Maja Street in Katowice.
+wavs/65.wav|In 500 meters, turn left onto Pilsudskiego Avenue in Lodz.
+wavs/66.wav|Take the fourth exit at the roundabout and continue on Karkonoska Street in Szczecin.
+wavs/67.wav|Stay on this road for 10 kilometers, then take the exit for Gdynia.
+wavs/68.wav|Follow the signs for the city center and turn right at the next intersection onto Dabrowskiego Street in Poznan.
+wavs/69.wav|Turn left onto Mickiewicza Street and continue for 2 kilometers in Krakow.
+wavs/70.wav|Take the ramp onto the A2 highway towards Berlin and continue for 15 kilometers.
+wavs/71.wav|Exit the highway and turn right onto Grunwaldzka Street in Gdansk.
+wavs/72.wav|Continue straight for 1 kilometer and then turn left onto Czerniakowska Street in Warsaw.
+wavs/73.wav|Turn right at the next intersection onto Piłsudskiego Street and continue for 500 meters in Wroclaw.
+wavs/74.wav|Take the third exit at the roundabout and continue on Krasinskiego Street in Lublin.
+wavs/75.wav|In 300 meters, turn left onto Wawel Hill in Krakow.
+wavs/76.wav|Take the second exit at the roundabout and continue on Kosciuszki Street in Gliwice.
+wavs/77.wav|Stay on this road for 20 kilometers, then take the exit for Olsztyn.
+wavs/78.wav|Follow the signs for the city center and turn right at the next intersection onto Armii Krajowej Street in Krakow.
+wavs/79.wav|Turn left onto Plac Wolnosci and continue for 2 kilometers in Wroclaw.
+wavs/80.wav|Take the ramp onto the S5 highway towards Bydgoszcz and continue for 15 kilometers.
+wavs/81.wav|Exit the highway and turn right onto Mickiewicza Street in Torun.
+wavs/82.wav|Continue straight for 1 kilometer and then turn left onto Mikołaja Kopernika Street in Gdansk.
+wavs/83.wav|Turn right at the next intersection onto Piotrkowska Street and continue for 500 meters in Lodz.
+wavs/84.wav|Take the fourth exit at the roundabout and continue on Słowackiego Street in Tarnow.
+wavs/85.wav|In 500 meters, turn right onto Wroclawska Street in Legnica.
+wavs/86.wav|Take the third exit at the roundabout and continue on 3 Maja Street in Kielce.
+wavs/87.wav|Stay on this road for 10 kilometers, then take the exit for Kalisz.
+wavs/88.wav|Follow the signs for the city center and turn left at the next intersection onto Dworcowa Street in Wroclaw.
+wavs/89.wav|Turn right onto Grzybowska Street and continue for 2 kilometers in Warsaw.
+wavs/90.wav|Take the ramp onto the A1 highway towards Gdansk and continue for 15 kilometers.
+wavs/91.wav|Exit the highway and turn right onto Dluga Street in Elblag.
+wavs/92.wav|Continue straight for 1 kilometer and then turn left onto Nowa Street in Bydgoszcz.
+wavs/93.wav|Turn right at the next intersection onto Bolesława Chrobrego Street and continue for 500 meters in Krakow.
+wavs/94.wav|Take the second exit at the roundabout and continue on Aleja Grunwaldzka in Gdansk.
+wavs/95.wav|In 300 meters, turn left onto Zwierzyniecka Street in Krakow.
+wavs/96.wav|Take the third exit at the roundabout and continue on Korfantego Avenue in Katowice.
+wavs/97.wav|Stay on this road for 20 kilometers, then take the exit for Kielce.
+wavs/98.wav|Follow the signs for the city center and turn right at the next intersection onto Tadeusza Kościuszki Street in Lublin.
+wavs/99.wav|Turn left onto Pilsudskiego Street and continue for 2 kilometers in Lodz.
+wavs/100.wav|Take the ramp onto the S7 highway towards Warsaw and continue for 15 kilometers.
+wavs/101.wav|Exit the highway and turn left onto Żeromskiego Street in Lublin.
+wavs/102.wav|Continue straight for 1 kilometer and then turn right onto Narutowicza Street in Poznan.
+wavs/103.wav|Turn left at the next intersection onto Chopina Street and continue for 500 meters in Krakow.
+wavs/104.wav|Take the fourth exit at the roundabout and continue on 1 Maja Street in Gorzow Wielkopolski.
+wavs/105.wav|In 500 meters, turn left onto Kopernika Street in Wroclaw.
+wavs/106.wav|Take the third exit at the roundabout and continue on Armii Krajowej Street in Czestochowa.
+wavs/107.wav|Stay on this road for 10 kilometers, then take the exit for Piotrkow Trybunalski.
+wavs/108.wav|Follow the signs for the city center and turn left at the next intersection onto Podwale Street in Gdansk.
+wavs/109.wav|Turn right onto Starowislna Street and continue for 2 kilometers in Krakow.
+wavs/110.wav|Take the ramp onto the S3 highway towards Szczecin and continue for 15 kilometers.
+wavs/111.wav|Exit the highway and turn left onto Kościuszki Street in Gdansk.
+wavs/112.wav|Continue straight for 1 kilometer and then turn right onto Jagiellońska Street in Rzeszow.
+wavs/113.wav|Turn left at the next intersection onto Jana Pawła II Street and continue for 500 meters in Lodz.
+wavs/114.wav|Take the second exit at the roundabout and continue on 11 Listopada Street in Tarnow.
+wavs/115.wav|In 300 meters, turn left onto Łokietka Street in Lublin.
+wavs/116.wav|Take the fourth exit at the roundabout and continue on Rynek Street in Wroclaw.
+wavs/117.wav|Stay on this road for 20 kilometers, then take the exit for Bielsko-Biala.
+wavs/118.wav|Follow the signs for the city center and turn left at the next intersection onto Piastowska Street in Gliwice.
+wavs/119.wav|Turn right onto Mickiewicza Street and continue for 2 kilometers in Lublin.
+wavs/120.wav|Take the ramp onto the S6 highway towards Gdansk and continue for 15 kilometers.
+wavs/121.wav|Exit the highway and turn left onto Legionów Street in Gdansk.
+wavs/122.wav|Continue straight for 1 kilometer and then turn right onto Wita Stwosza Street in Krakow.
+wavs/123.wav|Turn left at the next intersection onto Wielopole Street and continue for 500 meters in Krakow.
+wavs/124.wav|Take the third exit at the roundabout and continue on Sienkiewicza Street in Plock.
+wavs/125.wav|In 500 meters, turn left onto Dluga Street in Warsaw.
+wavs/126.wav|Take the second exit at the roundabout and continue on Jagiellońska Street in Lublin.
+wavs/127.wav|Stay on this road for 10 kilometers, then take the exit for Siedlce.
+wavs/128.wav|Follow the signs for the city center and turn left at the next intersection onto Armii Krajowej Street in Rzeszow.
+wavs/129.wav|Turn right onto Nowowiejska Street and continue for 2 kilometers in Warsaw.
+wavs/130.wav|Take the ramp onto the S7 highway towards Gdansk and continue for 15 kilometers.
+wavs/131.wav|Exit the highway and turn left onto Piłsudskiego Street in Torun.
+wavs/132.wav|Continue straight for 1 kilometer and then turn right onto Mickiewicza Street in Lublin.
+wavs/133.wav|Turn left at the next intersection onto Armii Krajowej Street and continue for 500 meters in Wroclaw.
+wavs/134.wav|Take the fourth exit at the roundabout and continue on Lecha Kaczyńskiego Street in Bydgoszcz.
+wavs/135.wav|In 500 meters, turn left onto Kopernika Street in Gdansk.
+wavs/136.wav|Take the third exit at the roundabout and continue on Armii Krajowej Street in Rzeszow.
+wavs/137.wav|Stay on this road for 20 kilometers, then take the exit for Zielona Gora.
+wavs/138.wav|Follow the signs for the city center and turn left at the next intersection onto Wolności Street in Gliwice.
+wavs/139.wav|Turn right onto Krupnicza Street and continue for 2 kilometers in Krakow.
+wavs/140.wav|Take the ramp onto the A4 highway towards Katowice and continue for 15 kilometers.
+wavs/141.wav|Exit the highway and turn left onto Kazimierza Wielkiego Street in Wroclaw.
+wavs/142.wav|Continue straight for 1 kilometer and then turn right onto Grottgera Street in Lublin.
+wavs/143.wav|Turn left at the next intersection onto Karmelicka Street and continue for 500 meters in Krakow.
+wavs/144.wav|Take the second exit at the roundabout and continue on 3 Maja Street in Kielce.
+wavs/145.wav|In 300 meters, turn left onto Słowackiego Street in Lublin.
+wavs/146.wav|Take the fourth exit at the roundabout and continue on Targowa Street in Warsaw.
+wavs/147.wav|Stay on this road for 10 kilometers, then take the exit for Krosno.
+wavs/148.wav|Follow the signs for the city center and turn left at the next intersection onto Krasickiego Street in Rzeszow.
+wavs/149.wav|Turn right onto Chmielna Street and continue for 2 kilometers in Warsaw.
+wavs/150.wav|Take the ramp onto the S8 highway towards Bialystok and continue for 15 kilometers.
+wavs/151.wav|Exit the highway and turn left onto Wolnosci Street in Gdansk.
+wavs/152.wav|Continue straight for 1 kilometer and then turn right onto Krolowej Jadwigi Street in Krakow.
+wavs/153.wav|Turn left at the next intersection onto Okopowa Street and continue for 500 meters in Warsaw.
+wavs/154.wav|Take the third exit at the roundabout and continue on Piłsudskiego Street in Torun.
+wavs/155.wav|In 500 meters, turn left onto Staromiejska Street in Lublin.
+wavs/156.wav|Take the second exit at the roundabout and continue on 11 Listopada Street in Tarnow.
+wavs/157.wav|Stay on this road for 20 kilometers, then take the exit for Pila.
+wavs/158.wav|Follow the signs for the city center and turn right at the next intersection onto Warszawska Street in Wloclawek.
+wavs/159.wav|Turn left onto Wojska Polskiego Street and continue for 2 kilometers in Wroclaw.
+wavs/160.wav|Take the ramp onto the A2 highway towards Poznan and continue for 15 kilometers.
+wavs/161.wav|Exit the highway and turn left onto Wolności Street in Poznan.
+wavs/162.wav|Continue straight for 1 kilometer and then turn right onto Jana III Sobieskiego Street in Lublin.
+wavs/163.wav|Turn left at the next intersection onto Jana Pawła II Street and continue for 500 meters in Katowice.
+wavs/164.wav|Take the fourth exit at the roundabout and continue on Dworcowa Street in Zielona Gora.
+wavs/165.wav|In 500 meters, turn left onto Piłsudskiego Street in Kielce.
+wavs/166.wav|Take the third exit at the roundabout and continue on Armii Krajowej Street in Czestochowa.
+wavs/167.wav|Stay on this road for 10 kilometers, then take the exit for Gliwice.
+wavs/168.wav|Follow the signs for the city center and turn left at the next intersection onto Wolności Street in Zielona Gora.
+wavs/169.wav|Turn right onto Grodzka Street and continue for 2 kilometers in Krakow.
+wavs/170.wav|Take the ramp onto the S6 highway towards Szczecin and continue for 15 kilometers.
+wavs/171.wav|Exit the highway and turn left onto Aleja Armii Krajowej in Gdansk.
+wavs/172.wav|Continue straight for 1 kilometer and then turn right onto Warszawska Street in Radom.
+wavs/173.wav|Turn left at the next intersection onto Sienkiewicza Street and continue for 500 meters in Kielce.
+wavs/174.wav|Take the second exit at the roundabout and continue on 1 Maja Street in Gorzow Wielkopolski.
+wavs/175.wav|In 300 meters, turn left onto Piastowska Street in Lublin.
+wavs/176.wav|Take the fourth exit at the roundabout and continue on Krolewiecka Street in Gdansk.
+wavs/177.wav|Stay on this road for 20 kilometers, then take the exit for Grudziadz.
+wavs/178.wav|Follow the signs for the city center and turn left at the next intersection onto Piotrkowska Street in Lodz.
+wavs/179.wav|Turn right onto Krasinskiego Street and continue for 2 kilometers in Tarnow.
+wavs/180.wav|Take the ramp onto the A4 highway towards Wroclaw and continue for 15 kilometers.
+wavs/181.wav|Exit the highway and turn left onto Wita Stwosza Street in Krakow.
+wavs/182.wav|Continue straight for 1 kilometer and then turn right onto Sienkiewicza Street in Radom.
+wavs/183.wav|Turn left at the next intersection onto Armii Krajowej Street and continue for 500 meters in Bydgoszcz.
+wavs/184.wav|Take the third exit at the roundabout and continue on Aleja Piłsudskiego in Kielce.
+wavs/185.wav|In 500 meters, turn left onto Grunwaldzka Street.
+wavs/186.wav|Take the second exit at the roundabout and continue on Sienkiewicza Street in Radom.
+wavs/187.wav|Stay on this road for 10 kilometers, then take the exit for Gostynin.
+wavs/188.wav|Follow the signs for the city center and turn left at the next intersection onto Krzywa Street in Zielona Gora.
+wavs/189.wav|Turn right onto Słowackiego Street and continue for 2 kilometers in Lublin.
+wavs/190.wav|Take the ramp onto the S3 highway towards Legnica and continue for 15 kilometers.
+wavs/191.wav|Exit the highway and turn left onto Grottgera Street in Lublin.
+wavs/192.wav|Continue straight for 1 kilometer and then turn right onto Aleja Jana Pawła II in Krakow.
+wavs/193.wav|Turn left at the next intersection onto Ks. Józefa Poniatowskiego Street and continue for 500 meters in Wloclawek.
+wavs/194.wav|Take the fourth exit at the roundabout and continue on Sienkiewicza Street in Tarnow.
+wavs/195.wav|In 500 meters, turn left onto Ogrodowa Street in Plock.
+wavs/196.wav|Take the third exit at the roundabout and continue on Aleja Armii Krajowej in Rzeszow.
+wavs/197.wav|Stay on this road for 20 kilometers, then take the exit for Tarnowskie Gory.
+wavs/198.wav|Follow the signs for the city center and turn left at the next intersection onto Mickiewicza Street in Tarnow.
+wavs/199.wav|Turn right onto Ks. Piotra Skargi Street and continue for 2 kilometers in Lublin.
+wavs/200.wav|Take the ramp onto the A1 highway towards Katowice and continue for 15 kilometers.
